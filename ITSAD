@@ -1,0 +1,30 @@
+Instructions:
+Read the case scenario carefully.
+
+Choose only one (1) UML diagram to create from the list below:
+
+Use Case Diagram – to show system actors and functions.
+
+Class Diagram – to represent the system’s structure and relationships.
+
+Activity Diagram – to illustrate the flow of actions or processes.
+
+Sequence Diagram – to demonstrate object interactions over time.
+
+You may use any UML design tool (e.g., Draw.io, Lucidchart, Visual Paradigm, StarUML) or draw it neatly by hand.
+
+Label all elements clearly and ensure your diagram matches the scenario.
+
+Submit your chosen UML diagram in PDF or image format with a short explanation (3–5 sentences) of what your diagram represents.
+
+ 
+
+Case Scenario: Student Enrollment System
+A college wants to automate its student enrollment process. Students must first log in to the system, view available subjects, and enroll in their chosen courses. The registrar validates the enrollment and confirms the student’s schedule. The system stores student records, course offerings, and schedules.
+
+🏗️ System Actors:
+Student – logs in, views subjects, and enrolls.
+
+Registrar – verifies and confirms enrollment.
+
+System – processes and stores enrollment data.
