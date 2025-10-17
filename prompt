@@ -1,0 +1,20 @@
+title Student Enrollment Sequence Diagram
+
+actor Student
+actor Registrar
+participant System
+
+Student->System: Log in
+System->Student: Confirm login
+
+Student->System: View available subjects
+System->Student: Display subjects
+
+Student->System: Enroll in chosen courses
+System->Registrar: Send enrollment request
+Registrar->System: Validate enrollment
+Registrar->System: Confirm schedule
+System->Student: Send enrollment confirmation
+System->System: Store student records
+System->System: Update course offerings
+System->System: Update schedules
