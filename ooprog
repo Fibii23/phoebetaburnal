@@ -1,0 +1,8 @@
+ArraySumAverage.java
+Write a Java program that asks the user to input 5 integers, stores them in a one-dimensional array, then computes and displays the sum and average of all elements.
+
+ArrayMaxMin.java
+Create a Java program that asks the user for 6 integer values, stores them in an array, and then determines the largest and smallest numbers in the array using a loop.
+
+ArrayEvenOdd.java
+Write a Java program that reads 7 integers into an array. Count how many numbers are even and how many are odd. Display the results.
